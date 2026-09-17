@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2026-09-17 22:51:46",
+    "strength": 49.701252654470885,
+    "rating": "\ud83d\udc4d GOOD - Moderate Strength Concrete",
+    "Cement(kg/m3)": 308.5,
+    "Water(kg/m3)": 178.6,
+    "Coarse aggregate(kg/m3)": 946.6,
+    "Fine aggregate(kg/m3)": 759.9,
+    "FA (kg/m3)": 85.4,
+    "SF (kg/m3)": 20.2,
+    "GGBFS (kg/m3)": 61.6,
+    "SP (kg/m3)": 5.9
+  },
+  {
+    "timestamp": "2026-09-17 23:19:08",
+    "strength": 45.303966276939114,
+    "rating": "\ud83d\udc4d GOOD - Moderate Strength Concrete",
+    "Cement(kg/m3)": 308.5,
+    "Water(kg/m3)": 178.6,
+    "Coarse aggregate(kg/m3)": 946.6,
+    "Fine aggregate(kg/m3)": 759.9,
+    "FA (kg/m3)": 85.4,
+    "SF (kg/m3)": 20.2,
+    "GGBFS (kg/m3)": 61.6,
+    "SP (kg/m3)": 5.9
+  }
+]
