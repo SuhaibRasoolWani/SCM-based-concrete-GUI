@@ -1,0 +1,9 @@
+Variable,VIF,Interpretation
+ Water(kg/m3),30.845926490220513,Severe multicollinearity (VIF >= 10)
+ Cement(kg/m3),16.992355896990766,Severe multicollinearity (VIF >= 10)
+Fine aggregate(kg/m3),16.744146250556582,Severe multicollinearity (VIF >= 10)
+Coarse aggregate(kg/m3),12.248154992980998,Severe multicollinearity (VIF >= 10)
+ FA (kg/m3),3.438593806702916,Acceptable (VIF < 5)
+SP (kg/m3),2.7518409826851924,Acceptable (VIF < 5)
+GGBFS (kg/m3),2.73009352774886,Acceptable (VIF < 5)
+SF (kg/m3),1.798032809593374,Acceptable (VIF < 5)
